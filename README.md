@@ -41,3 +41,14 @@ Mark urgent or normal priority
 Librarians can answer and change status
 
 Filter unanswered/urgent
+
+## 📸 Screenshots
+
+### 1. Question List (with filters)
+![Question List](frontend/public/screenshots/list.png)
+
+### 2. Ask a Question
+![Ask Question](frontend/public/screenshots/ask.png)
+
+### 3. Question Detail (with answers + librarian controls)
+![Question Detail](frontend/public/screenshots/detail.png)
